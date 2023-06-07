@@ -1,0 +1,1 @@
+# In this python file, i'll be implementing my own transformer model class that i will use in my chat bot aswell. I konw that i don't had the ressources to train a giant model but i will try my best to make a good one.
